@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Request"
+        android:icon="@drawable/food_request"/>
+    <item
+        android:icon="@drawable/food_donation"
+        android:title="Donation" />
+    <item
+        android:title="Inventory"
+        android:icon="@drawable/inventory"/>
+    <item
+        android:title="Volunteer"
+        android:icon="@drawable/volunteer"/>
+</menu>
