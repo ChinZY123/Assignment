@@ -20,5 +20,6 @@
     <string name="inventoryform">Inventory Catalog Form</string>
     <string name="inventoryupdate">Inventory Catalog Update</string>
     <string name="home">Home</string>
+    <string name="inventoryconfirmation">Inventory Confirmation</string>
 
 </resources>
